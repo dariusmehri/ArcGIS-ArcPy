@@ -3,4 +3,4 @@
 
 Includes:
 
-Spatial join and create of map for DOB Sustainability inspections
+Spatial join and creation of map for DOB Sustainability inspections

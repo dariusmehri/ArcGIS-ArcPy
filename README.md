@@ -1,7 +1,5 @@
 # ArcPy
-### Python scripts to automate ArcGIS
-
-Includes:
+### Python scripts to automate ArcGIS:
 
 Spatial analysis of gas, high risk buildings, choropleth map of count of high risk buildings by coummunity district and GIS coordinates of the buildings.
 
